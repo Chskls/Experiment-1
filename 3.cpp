@@ -1,4 +1,5 @@
 #include <iostream>
+#include<conio.h>
 using namespace std;
 
 int main(){
@@ -24,5 +25,6 @@ cout << db<<endl;
 
 	
 cout << undb<<endl;
+getch();
 return 0;
 }
